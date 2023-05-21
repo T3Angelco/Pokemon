@@ -5,4 +5,4 @@ if tipo == 1:
 else:
     print ("Tu pokemon es tipo fuego")
 
-print (pokemon, "es un excelente pokemón")
+print (pokemon, "es un terrible pokemón")
