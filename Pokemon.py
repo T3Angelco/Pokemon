@@ -6,3 +6,5 @@ else:
     print ("Tu pokemon es tipo fuego")
 
 print (pokemon, "es un mal pokemón")
+
+print ("Bro tengo muchp sueño")
